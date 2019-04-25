@@ -1,10 +1,9 @@
 
 public class Dog extends Pet {
 	
-	public Dog(String petName, PetType petType) {
-		super(petName, petType);
+	public Dog(String petName) {
+		super(petName);
 		this.petName = petName;
-		this.petType = petType;
 	}
 
 	@Override
