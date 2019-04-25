@@ -24,6 +24,7 @@ public class PetStore {
 
 	public static void main(String[] args) { 
 		Pet pet = new Dog("Henry");
+		
 		pets.add(pet);
 		
 		Pet pet2 = new Cat("Tom");
