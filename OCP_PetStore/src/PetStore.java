@@ -5,7 +5,7 @@ public class PetStore {
 	
 	public void sounds() {
 		for (Pet pet : pets) {
-			Pet.sounds();
+			
 		}	
 	}
 	
